@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10101532&assignment_repo_type=AssignmentRepo)
 # CS571-S23 HW03: Badger Book
 
 Welcome to Badger Book! Classroom introductions scale in O(n) time, so in this assignment we will speed up that process! In HW1, we collected JSON data about you; in this assignment, you will present this JSON data on a webpage: Badger Book. You'll fetch data from the API, present it on a webpage, and provide search functionality to speed up the introduction process! Because we had just completed the JavaScript Bootcamp, *there is no design aspect to this assignment*.
